@@ -1,0 +1,40 @@
+h3 {
+    font-family: 'calibri';
+    font-style: oblique;
+}
+h2 {
+    color: orange;
+}
+.Testo{
+    margin: auto;
+    width: 50%;
+
+}
+
+.Testo2{
+    margin: auto;
+    width: 50%;
+}
+
+.Testo3{
+    margin: auto;
+    width: 50%;
+    
+}
+
+.Ultimo{
+    font-size: 10px;
+    border-top: 2px solid orange;
+    margin: auto;
+    width: 50%;
+    text-align: center;
+}
+
+.Titolo{
+    text-align: center;
+    margin: auto;
+    width: 50%;
+    background-color: #706f6c; 
+    border-bottom: 2px solid orange;
+}
+
